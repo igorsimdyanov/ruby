@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+# Bundler.require(:default)
+gem 'rubocop'
+
+# Bundler.require(:debug)
+group :debug do
+  gem 'pry'
+end

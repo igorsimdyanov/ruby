@@ -1,0 +1,6 @@
+AllCops:
+  TargetRubyVersion: 2.6
+  Exclude:
+    - 'tmp/**/*'
+Style/AsciiComments:
+  Enabled: false

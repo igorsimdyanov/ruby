@@ -1,0 +1,1 @@
+p Dir.entries '..' # [".", "..", "arrays", ...]

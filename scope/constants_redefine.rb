@@ -1,0 +1,3 @@
+CONST = 1
+CONST = 2
+puts CONST # 2

@@ -1,0 +1,7 @@
+params:
+  first_name: Иван
+  last_name: Сидоров
+  patronymic: Петрович
+  params:
+    score: 20
+    number: 762

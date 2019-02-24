@@ -1,0 +1,11 @@
+.DS_Store
+*~
+
+.idea_modules
+constants/debug/vendor/**
+constants/pry/vendor/**
+rack/blog/vendor/**
+tests/cucumber/vendor/**
+tests/minitest/vendor/**
+tests/rspec/vendor/**
+utils/vendor/**

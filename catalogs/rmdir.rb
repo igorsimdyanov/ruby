@@ -1,0 +1,1 @@
+Dir.rmdir('test')

@@ -1,0 +1,1 @@
+File.unlink('hello.txt')

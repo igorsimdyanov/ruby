@@ -1,0 +1,1 @@
+p Hash.new # {}

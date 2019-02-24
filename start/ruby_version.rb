@@ -1,0 +1,1 @@
+puts RUBY_VERSION
