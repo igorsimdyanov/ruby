@@ -1,4 +1,4 @@
-require_relative 'seo'
+require_relative 'seo_module'
 
 class Page
   attr_accessor :title, :body
