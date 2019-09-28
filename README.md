@@ -20,7 +20,7 @@
 
 ## Приобретение книги
 
-[Купить бумажную книгу через Ozon.ru.](https://www.ozon.ru/context/detail/id/157924736/?partner=softtimeru)
+[Купить бумажную книгу через Labirint.ru.](https://www.labirint.ru/books/712808/)
 
 ## Помощь и отзывы
 
