@@ -8,4 +8,4 @@ p infpos.infinite? # 1
 p infneg.infinite? # -1
 
 p number.nan? # false
-p inf.nan? # true
+p nan.nan? # true
