@@ -8,7 +8,7 @@ class Hello
   # = Пример использования
   #
   #   h = Hello.new
-  #   h.geeting('Ruby')
+  #   h.greeting('Ruby')
   def greeting(name)
     puts "Hello, #{name}"
   end
