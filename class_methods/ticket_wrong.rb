@@ -1,9 +1,9 @@
 class Ticket
   def set_price(price)
-    @pirce = price
+    @price = price
   end
   def price
-    @pirce
+    @price
   end
 end
 

@@ -3,7 +3,7 @@ class Ticket
   attr_writer :date, :price
 
   def initialize(date:, price: 500)
-    @pirce = price
+    @price = price
     @date = date
   end
 end

@@ -1,11 +1,11 @@
 class Ticket
   def initialize(price: 500)
     puts 'Установка начального состояния объекта'
-    @pirce = price
+    @price = price
   end
 
   def price
-    @pirce
+    @price
   end
 end
 

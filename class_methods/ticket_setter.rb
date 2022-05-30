@@ -1,14 +1,14 @@
 class Ticket
   def initialize(date:, price: 500)
-    @pirce = price
+    @price = price
     @date = date
   end
 
   def price=(price)
-    @pirce = price
+    @price = price
   end
   def price
-    @pirce
+    @price
   end
 
   def date=(date)
