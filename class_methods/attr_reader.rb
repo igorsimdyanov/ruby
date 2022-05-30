@@ -2,12 +2,12 @@ class Ticket
   attr_reader :date, :price
 
   def initialize(date:, price: 500)
-    @pirce = price
+    @price = price
     @date = date
   end
 
   def price=(price)
-    @pirce = price
+    @price = price
   end
 
   def date=(date)

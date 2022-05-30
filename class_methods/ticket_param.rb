@@ -1,9 +1,9 @@
 class Ticket
   def initialize(price)
-    @pirce = price
+    @price = price
   end
 
   def price
-    @pirce
+    @price
   end
 end
